@@ -39,6 +39,7 @@
    - **Summary:** Introduces the ViSAGe dataset for evaluating nationality-based stereotypes in T2I models across 135 nationalities. Finds that generated images reinforce stereotypes, with stronger biases in depictions of identities from the Global South.  
    - **Date Studied:** 4th February 
    - **[Link To Paper](https://arxiv.org/abs/2401.06310)**
+   - **[Link To Slides](https://docs.google.com/presentation/d/1FnjFXChdjHSWjW_cPOHwkj7RdYWtflK53aXDUMEgSMc/edit#slide=id.g3301eb72307_0_0)**
 
 
 7. **BackdoorMBTI Benchmark**  
